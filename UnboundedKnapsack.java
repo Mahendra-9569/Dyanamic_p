@@ -32,6 +32,6 @@ public class UnboundedKnapsack {
         }
         System.out.println(unboundedKnapsack(val, wt, val.length, w, dp));
     }
-}
+} 
 
 
